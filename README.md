@@ -1,1 +1,2 @@
 # OOP_JAVA
+Welcome to LAB211_OOP-With-Java-Lab, your dedicated space for exploring and mastering Java Object-Oriented Programming (OOP) principles through the hands-on experience of user management. In this lab, we delve into the fascinating world of Java, focusing on OOP methodologies to create robust and efficient user management systems.
